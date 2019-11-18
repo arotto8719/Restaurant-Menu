@@ -1,6 +1,7 @@
 package restaurant;
 
-import java.util.MenuItem.java class:
+//import java.util.MenuItem.javaclass:
 public class Menu {
     private String Appetizers;
+
 }

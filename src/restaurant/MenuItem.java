@@ -32,4 +32,15 @@ public class Appetizers {
     public static void main(String[] args) {
         System.out.println("Appetizers" + ":" + "name" + ":" + "" + "price"  + ":" + "");
     }
+    MenuItem = MenuItem + addMenuItem;
+    public void addMenuItem(int appetizers + double price) {
+        if(MenuItem == new) {
+            return newMenu;
+            // Update the appropriate fields: MenuItem, double price;
+        }
+        if(oldMenu && newMenu == equal) {
+            return true;
+        }
+    }
+    System.out.println(oldMenu(newMenu));
 }
